@@ -35,4 +35,6 @@ Conclusion:
 This project demonstrates basic authentication, file handling, and input validation concepts in C++.
 
  Author
+
+ 
 Prachi Thakur
